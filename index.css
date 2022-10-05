@@ -7,3 +7,18 @@ body {
 ul li{
     color: black;
 }
+header {
+    text-align: center;
+    background: #E9E9E9;
+}
+#main-text{
+    float:right;    
+    background: #FFFFFF;
+}
+img {
+    width: 180px;
+    height: 180px;
+}
+#to-do{
+    background: #64B0A7;
+}
